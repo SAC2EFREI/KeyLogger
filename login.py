@@ -2,7 +2,7 @@ import streamlit as st
 
 # --- CONFIGURATION DES IDENTIFIANTS ---
 USERNAME = "admin"
-PASSWORD = "password123"
+PASSWORD = "zoutilégendaire982"
 
 def login():
     st.title("🔐 Connexion")
