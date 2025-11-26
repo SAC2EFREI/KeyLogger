@@ -12,7 +12,7 @@ import time
 import json
 import threading
 
-from login import require_auth
+from Visuel.login import require_auth
 require_auth()
 # Configuration de la page
 st.set_page_config(
