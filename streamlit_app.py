@@ -5,6 +5,9 @@ from collections import Counter
 import re
 from datetime import datetime
 
+from login import require_auth
+require_auth()
+
 # -----------------------------
 # PARAMÈTRES
 # -----------------------------
