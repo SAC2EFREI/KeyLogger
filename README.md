@@ -1,59 +1,40 @@
-# ADVANCED KEYLOGGER 
+# ADVANCED KEYLOGGER 💻
 
-🛡️ Projet pédagogique – Développement d'un keylogger
+🛡️ Projet pédagogique – Développement d'un keylogger 🎓
 
 Travail réalisé dans le cadre d’un enseignement portant sur la cybersécurité, le développement encadré et la compréhension des logiciels de surveillance.
+
 ## Introduction
 
-Ce projet a été conçu dans un objectif purement scolaire et pédagogique, afin d’initier l’étudiant aux mécanismes techniques utilisés dans les logiciels de surveillance.
-Le but est de développer, de manière contrôlée et responsable, un keylogger éducatif, accompagné d’un module de capture d’écran et d’un système d’envoi automatisé des données vers un bot sur une plateforme telle que Discord ou Telegram.
+Ce projet a été conçu dans un objectif purement scolaire et pédagogique.
+Le but est de développer, de manière contrôlée et responsable, un keylogger avec des fonctionnalités avancés. Ce travail pratique permet d’aborder plusieurs domaines du développement logiciel :
+- interactions bas niveau avec le système d’exploitation
+- manipulation d’événements clavier
+- capture visuelle de l’interface
+- communication entre un programme local et un service externe
+- gestion, structuration et transmission des données
 
-Ce travail pratique permet d’aborder plusieurs domaines du développement logiciel :
-
-interactions bas niveau avec le système d’exploitation,
-
-manipulation d’événements clavier,
-
-capture visuelle de l’interface,
-
-communication entre un programme local et un service externe,
-
-gestion, structuration et transmission des données.
-
-Il s’agit d’un travail essentiel qui aide à comprendre comment fonctionnent certains outils utilisés en cybersécurité, mais également comment les détecter, les analyser ou les bloquer dans un contexte professionnel.
-
-Toute utilisation en dehors du cadre pédagogique, supervisé et explicitement autorisé est strictement interdite.
-
-##⚠️ Avertissement éthique et légal
+#⚠️ Avertissement éthique et légal
 
 Même si ce projet est réalisé dans un environnement contrôlé, il implique des mécanismes sensibles. À ce titre :
 
 Le développement ou l’utilisation d’un keylogger en dehors d’un cadre légal est illégal.
-
 Le résultat du projet ne doit jamais être exécuté sur une machine tiers sans autorisation clairement exprimée.
-
 Le dépôt, le code et les fichiers sont destinés à l’apprentissage et la formation, pas à un usage réel.
-
 Le but de ce travail est d’apprendre à développer pour comprendre, pas de créer un logiciel malveillant exploitable.
 
-L’ensemble du projet doit donc rester dans un contexte sécurisé, isolé et pédagogique.
 ## 🎯 Objectifs du projet
 
-Dans ce travail de développement, l’étudiant apprend à :
+Les objectifs sont:
 
-Concevoir un logiciel comportant plusieurs modules techniques sensibles.
+- Concevoir un logiciel comportant plusieurs modules techniques sensibles.
+- Comprendre les interactions entre une application locale et des événements système.
+- Développer une logique de capture (texte et image).
+- Configurer un système d’envoi vers un bot sur une plateforme de communication.
+- Structurer un projet impliquant des interactions avec des API externes.
+- Mettre en place des mesures de sécurité autour d’un outil potentiellement intrusif (sandbox, environnement démo, isolation).
+- Documenter entièrement un logiciel technique via un README détaillé.
 
-Comprendre les interactions entre une application locale et des événements système.
-
-Développer une logique de capture (texte et image).
-
-Configurer un système d’envoi vers un bot sur une plateforme de communication.
-
-Structurer un projet impliquant des interactions avec des API externes.
-
-Mettre en place des mesures de sécurité autour d’un outil potentiellement intrusif (sandbox, environnement démo, isolation).
-
-Documenter entièrement un logiciel technique via un README détaillé.
 ### 🛠️ Pré-requis
 
 (Tu complèteras cette section avec les détails techniques nécessaires à TA version du projet.)
