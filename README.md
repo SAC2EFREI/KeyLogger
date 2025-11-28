@@ -1,10 +1,8 @@
 # ADVANCED KEYLOGGER 
 
-One Paragraph of the project description
+🛡️ Projet pédagogique – Analyse et compréhension d’un keylogger éducatif
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
-
+Travail réalisé dans le cadre d’un enseignement sur la cybersécurité, l’audit informatique et la sensibilisation aux risques numériques.
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
