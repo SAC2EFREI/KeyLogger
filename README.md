@@ -1,8 +1,8 @@
 # ADVANCED KEYLOGGER 
 
-🛡️ Projet pédagogique – Analyse et compréhension d’un keylogger éducatif
+🛡️ Projet pédagogique – Développement d'un keylogger
 
-Travail réalisé dans le cadre d’un enseignement sur la cybersécurité, l’audit informatique et la sensibilisation aux risques numériques.
+Travail réalisé dans le cadre d’un enseignement sur la cybersécurité.
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
