@@ -14,7 +14,7 @@ Le but est de développer, de manière contrôlée et responsable, un keylogger 
 - communication entre un programme local et un service externe
 - gestion, structuration et transmission des données
 
-#⚠️ Avertissement éthique et légal
+⚠️ Avertissement éthique et légal
 
 Même si ce projet est réalisé dans un environnement contrôlé, il implique des mécanismes sensibles. À ce titre :
 
